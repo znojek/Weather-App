@@ -1,0 +1,20 @@
+.night {
+    background: url("./noc.png");
+    background-size: 100%;
+}
+.sunrise {
+    background: url("./wschod.png");
+    background-size: 100%;
+}
+.day {
+    background: url("./dzien.png");
+    background-size: 100%;
+}
+.evening {
+    background: url("./poznywieczor.jpg");
+    background-size: 100%;
+}
+.godz420 {
+    background: url("./4_20.png");
+    background-size: 100%;
+}
